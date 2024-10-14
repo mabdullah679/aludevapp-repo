@@ -1,0 +1,1 @@
+This directory is for the gateway app of the aludevapp project
